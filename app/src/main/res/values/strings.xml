@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Almanaque</string>
+    <string name="Button">Bienvenido Mago Prodigioso!</string>
+    <string name="tv_1">Clasificación de Criaturas Mágicas</string>
+    <string name="tv_2">NOTA: El Departamento de Regulación y Control de Criaturas Mágicas., clasifica a las criaturas en una escala de 1 (X) a 5 (XXXXX) según su peligrosidad</string>
+    <string name="tv_3">Clasificación X (Aburridas)</string>
+    <string name="tv_4">Clasificación XX (Inofensivas)</string>
+    <string name="tv_5">Clasificación XXX (Magos competentes)</string>
+    <string name="tv_6">Clasificación XXXX (Peligrosos)</string>
+    <string name="tv_7">Clasificación XXXXX (Muy Peligrosos)</string>
+    <string name="Button8">Explorar</string>
+    <string name="Button1">REPOCITORIO DE CRIATURAS MÁGICAS</string>
+    <string name="Button2">REGISTRO DE ANIMALES FANTASTICOS</string>
+    <string name="Button3">MAGOS PELIGROSOS</string>
+    <string name="Button4">Colegio Hogwarts de Magia y Hechicería</string>
+    <string name="Button5">Conversor Monedas Magicas</string>
+    <string name="Button6">Tecnológico Tláhuac III</string>
+    <string name="Button7">NASA</string>
+    <string name="x">Estas criaturas son aburridas y totalmente inofensivas para los humanos.</string>
+
+    <string name="txt_codigo">Codigo de la Criatura</string>
+    <string name="txt_nombre">Nombre de la Criatura</string>
+    <string name="txt_descripcion">Descripcion de la Criatura</string>
+    <string name="button_0">REGRESAR</string>
+    <string name="button_1">REGISTRAR CRIATURA</string>
+    <string name="button_2">BUSCAR CRIATURA</string>
+    <string name="button_3">ELIMINAR CRIATURA</string>
+    <string name="button_4">MODIFICAR CRIATURA</string>
+
+    <string name="txt_valor1">Ingresa la Cantidad de Galeones</string>
+    <string name="txt_valor2">Ingresa la Cantidad de Sickle</string>
+    <string name="txt_valor3">Ingresa la Cantidad de Knut</string>
+
+
+    <string name="button">Convertir</string>
+    <string name="menu">Menu Opciones</string>
+    <string name="tv_resultados">Resultado</string>
+    <string name="item1">Conversion de Galeones</string>
+    <string name="item2">Conversion de Sickle</string>
+    <string name="item3">Conversion de Knut</string>
+
+</resources>
